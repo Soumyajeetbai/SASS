@@ -1,0 +1,14 @@
+$bg-color-blue:blue;
+
+@import '_parial.scss';
+
+h1{
+
+   background-color:$bg-color-blue;
+	
+
+}
+
+p{
+	font-size:$font-size-12;
+}

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAIA,EAAE;EAEC,gBAAgB,EANJ,IAAI;;AAWnB,CAAC;EACA,SAAS,ECZI,IAAI",
+"sources": ["style.scss","_parial.scss"],
+"names": [],
+"file": "style.css"
+}
